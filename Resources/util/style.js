@@ -119,7 +119,7 @@ exports.style = {
                 type: 'Ti.UI.Button',
                 bindId: 'otherTeamBtn',
                 properties: {
-                    backgroundImage: "/images/zoom@2x.png",
+                    backgroundImage: "/images/zoom.png",
                     width: "32dp",
                     height: "32dp",
                     top : "2dp",
@@ -344,7 +344,7 @@ exports.style = {
 		},
 		otherTeamBtnAndroid : {
 		    title: "他チーム日程"
-            ,color: "black"
+            ,color: "white"
             ,borderWidth: 1
             ,backgroundColor: config.color
             ,borderRadius: 8
@@ -409,7 +409,7 @@ exports.style = {
 	    },
         sortButtonAndroid : {
             title: "ソート"
-            ,color: "black"
+            ,color: "white"
             //,borderColor: "#902020"
             ,borderWidth: 1
 //            ,backgroundImage: "/images/toolbarBackground.png"
@@ -421,7 +421,7 @@ exports.style = {
 //            ,top: 5
         },
         jButtonAndroid : {
-            color: "black"
+            color: "lightgray"
             ,font: {fontSize: 15, fontWeight: "bold"}
             ,borderWidth: 1
             ,backgroundColor: config.color
@@ -432,7 +432,7 @@ exports.style = {
             ,left: 110
         },
         aclNabiscoButtonAndroid : {
-            color: "black"
+            color: "white"
             ,opacity: 1.0
             //,borderColor: "#902020"
             ,borderWidth: 1
