@@ -7,7 +7,7 @@ exports.config = {
     ,iPhoneAppUrl: 'https://itunes.apple.com/jp/app/id929041384?l=ja&ls=1&mt=8'
     ,androidAppUrl: 'https://play.google.com/store/apps/details?id=smartj.reysol'
     ,backgroundColor: 'black'
-	,visitedBgColor : '#ddd'
+	,visitedBgColor : '#457'
     ,mainTextColor: 'white'
     ,color: '#fff100'
     ,tintColor: 'black'
